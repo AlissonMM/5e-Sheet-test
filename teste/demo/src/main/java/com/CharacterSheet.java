@@ -14,7 +14,7 @@ import com.lowagie.text.pdf.PdfWriter;
 
 public class CharacterSheet{
 
-    private String sheetpath = "Sheets/CharacterSheet.pdf";
+    private String sheetpath = "CharacterSheet.pdf";
 
     public void Sheet(String name, String class_, int level){
 
